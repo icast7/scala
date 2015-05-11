@@ -42,6 +42,7 @@ class Rational(x: Int, y: Int){
     }
 }
 
+
 object rationals {
     val x = new Rational(1, 3)                    //> x  : w3.Rational = 1/3
     val y = new Rational(5, 7)                    //> y  : w3.Rational = 5/7
