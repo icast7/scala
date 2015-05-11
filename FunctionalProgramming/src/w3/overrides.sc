@@ -10,6 +10,6 @@ class Sub extends Base {
 	def bar = 3
 }
 
-object ex1 {
+object overrides {
   println("Welcome to the Scala worksheet")       //> Welcome to the Scala worksheet
 }
