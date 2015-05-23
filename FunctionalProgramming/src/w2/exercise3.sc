@@ -2,7 +2,7 @@
 package w2
 import math.abs
 
-object ex4 {
+object exercise3 {
   val tolerance =  0.0001                         //> tolerance  : Double = 1.0E-4
   def isCloseEnough(x: Double, y: Double) =
     abs((x-y)/x) / x < tolerance                  //> isCloseEnough: (x: Double, y: Double)Boolean

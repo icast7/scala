@@ -1,6 +1,6 @@
-package w2
+package w1
 
-object exercise1 {
+object exercise {
 	def factorial(n: Int): Int = {
 		def loop(acc: Int, n:Int): Int =
 			if (n == 0) acc
