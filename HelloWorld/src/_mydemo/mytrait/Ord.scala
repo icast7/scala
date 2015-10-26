@@ -1,4 +1,4 @@
-package mytrait
+package _mydemo.mytrait
 
 trait Ord {
   def <  (that: Any): Boolean

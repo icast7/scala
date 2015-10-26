@@ -1,3 +1,5 @@
+package _mydemo
+
 /**
  * @author icastillejos
  */
@@ -9,6 +11,6 @@ object Timer {
     println("Time flies like an arrow...")
   }
   def main(args: Array[String]) {
-   oncePerSecond(timeFlies) 
+   oncePerSecond(timeFlies)
   }
 }

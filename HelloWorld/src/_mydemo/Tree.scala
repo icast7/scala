@@ -1,3 +1,5 @@
+package _mydemo
+
 abstract class Tree
 case class Sum(l: Tree, r:Tree) extends Tree
 case class Var(n: String) extends Tree
