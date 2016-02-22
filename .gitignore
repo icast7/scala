@@ -4,3 +4,4 @@
 *.worksheet*
 *.metadata
 HelloWorld/.cache
+*.idea
