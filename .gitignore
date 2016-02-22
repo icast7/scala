@@ -2,5 +2,5 @@
 *.cache*
 *.settings*
 *.worksheet*
-
+*.metadata
 HelloWorld/.cache
